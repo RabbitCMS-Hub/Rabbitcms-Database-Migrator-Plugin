@@ -150,7 +150,7 @@ Class rabbitcms_database_migrator_plugin
     	PLUGIN_DB_NAME 			= "dbmigrator_log"
     	PLUGIN_VERSION 			= "1.0.0"
     	PLUGIN_CREDITS 			= "@badursun Anthony Burak DURSUN"
-    	PLUGIN_GIT 				= "https://github.com/RabbitCMS-Hub/plugin-template"
+    	PLUGIN_GIT 				= "https://github.com/RabbitCMS-Hub/Rabbitcms-Database-Migrator-Plugin"
     	PLUGIN_DEV_URL 			= "https://adjans.com.tr"
     	PLUGIN_FILES_ROOT 		= PLUGIN_VIRTUAL_FOLDER(This)
     	'-------------------------------------------------------------------------------------
